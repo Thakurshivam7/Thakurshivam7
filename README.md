@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thakurshivam7
+- 👋 Hi, I’m Shivam 
 - 👀 I’m interested in Numatices
 - 🌱 I’m currently Persuing B.tech in data science and Data Enginnering
 - 📫 Here is my Linkdin - https://www.linkedin.com/in/thakur-shivam
